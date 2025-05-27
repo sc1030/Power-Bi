@@ -88,7 +88,7 @@ To open and explore the dashboards:
 ![Netflix Dashboard](https://github.com/sc1030/Power-Bi/blob/main/Netflix%20dashboard/Screenshot%202025-05-26%20180232.png)
 
 **Sales Dashboard**  
-![Sales Dashboard](images/sales_dashboard.png)
+![Sales Dashboard](https://github.com/sc1030/Power-Bi/blob/main/Sales/Screenshot%202025-05-26%20182102.png)
 
 *(Make sure you upload the image files to an `images/` folder)*
 
