@@ -41,7 +41,7 @@ Welcome to the **Sales Dashboard** built using **Microsoft Power BI**. This inte
 
 Here's a snapshot of the Netflix Power BI Dashboard:
 
-![Sales Dashboard](images/netflix_dashboard.png)
+![Sales Dashboard](https://github.com/sc1030/Power-Bi/blob/main/Sales/Screenshot%202025-05-26%20182102.png)
 
 
 ## 🚀 Getting Started
