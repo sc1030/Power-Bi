@@ -41,6 +41,12 @@ This Power BI dashboard provides an analytical view of Netflix's content catalog
 - What are the common ratings and durations for Netflix shows?
 
 ---
+## 📊 Dashboard Preview
+
+Here's a snapshot of the Netflix Power BI Dashboard:
+
+![Netflix Dashboard](https://github.com/sc1030/Power-Bi/blob/main/Netflix%20dashboard/Screenshot%202025-05-26%20180232.png)
+
 
 ## 🚀 Getting Started
 
