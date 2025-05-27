@@ -85,7 +85,7 @@ To open and explore the dashboards:
 > 📌 Add screenshots of your dashboards below (optional):
 
 **Netflix Dashboard**  
-![Netflix Dashboard](images/netflix_dashboard.png)
+![Netflix Dashboard](https://github.com/sc1030/Power-Bi/blob/main/Netflix%20dashboard/Screenshot%202025-05-26%20180232.png)
 
 **Sales Dashboard**  
 ![Sales Dashboard](images/sales_dashboard.png)
