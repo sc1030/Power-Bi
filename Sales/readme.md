@@ -37,6 +37,12 @@ Welcome to the **Sales Dashboard** built using **Microsoft Power BI**. This inte
 - How have sales evolved over time?
 
 ---
+## 📊 Dashboard Preview
+
+Here's a snapshot of the Netflix Power BI Dashboard:
+
+![Sales Dashboard](images/netflix_dashboard.png)
+
 
 ## 🚀 Getting Started
 
